@@ -7,12 +7,9 @@ section {
   border-right: 2px black;
 }
 
-#title1 {
-  background-color: palegoldenrod;
-}
-#title2 {
-}
-
-#my-header {
-  color: turquoise;
+img {
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+  padding: 8px;
 }
